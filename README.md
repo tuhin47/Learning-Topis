@@ -1,9 +1,11 @@
-# Best practices are called as Design Patterns
+# Design Patterns in Java
+
+Best practices are called as Design Patterns
 
 ## Principles of Design Patterns
 
-1. Composition over inheretance is always preferred.
-2. Code for interface not for implementation.
+- Composition over inheretance is always preferred.
+- Code for interface not for implementation.
 
 ## Types of Design Patterns
 
@@ -22,7 +24,7 @@
 ### B. Structural Design Patterns
 
 1. [Adapter](Adapter-Design-Pattern.md)
-1. Composite
+1. [Composite](Composite-Design-Pattern.md)
 1. Proxy
 1. Fly weight
 1. Facade
