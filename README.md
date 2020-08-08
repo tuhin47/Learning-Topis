@@ -1,3 +1,7 @@
+---
+footer: Md. Towhidul Islam
+---
+
 # Design Patterns in Java
 
 Best practices are called as Design Patterns
@@ -16,15 +20,15 @@ Best practices are called as Design Patterns
 ### A. Creational Design Pattern
 
 1. Singleton
-2. [Factory](Factory-Design-Pattern.md)
+2. [Factory](docs/pattern/Factory-Design-Pattern.md)
 3. Abstract factory
-4. [Builder](Builder-Design-Pattern.md)
-5. [Prototype](Prototype-Design-Pattern.md)
+4. [Builder](docs/pattern/Builder-Design-Pattern.md)
+5. [Prototype](docs/pattern/Prototype-Design-Pattern.md)
 
 ### B. Structural Design Patterns
 
-1. [Adapter](Adapter-Design-Pattern.md)
-1. [Composite](Composite-Design-Pattern.md)
+1. [Adapter](docs/pattern/Adapter-Design-Pattern.md)
+1. [Composite](docs/pattern/Composite-Design-Pattern.md)
 1. Proxy
 1. Fly weight
 1. Facade
@@ -36,7 +40,7 @@ Best practices are called as Design Patterns
 1. Template Method
 1. Mediator
 1. Chain of Responsibility
-1. [Observer](Observer-Design-Pattern.md)
+1. [Observer](docs/pattern/Observer-Design-Pattern.md)
 1. Strategy
 1. Command
 1. State
@@ -44,9 +48,3 @@ Best practices are called as Design Patterns
 1. Iterator
 1. Interpretor
 1. Memento
-
-## Comparable Vs Comparator in Java
-
-[Link](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
- **or**
-[video](https://www.youtube.com/watch?v=oAp4GYprVHM) :
