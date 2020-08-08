@@ -1,4 +1,4 @@
-# Best practices are called as Design Patterns.
+# Best practices are called as Design Patterns
 
 ## Principles of Design Patterns
 
@@ -8,37 +8,37 @@
 ## Types of Design Patterns
 
 1. [Creational](#a.-creational-design-pattern)
-2. [Structural](#structural-design-patterns)
+2. [Structural](#B.-Structural-Design-Patterns)
 3. [Behavioural](#C.-Behavioural)
 
 ### A. Creational Design Pattern
 
-    1. Singleton
-    2. Factory
-    3. Abstract factory
-    4. Builder
-    5. Prototype
+1. Singleton
+2. [Factory](Factory-Design-Pattern-Theory.md)
+3. Abstract factory
+4. Builder
+5. Prototype
 
 ### B. Structural Design Patterns
 
-    6. Adapter
-    7. Composite
-    8. Proxy
-    9. Fly weight
-    10. Facade
-    11. Bridge
-    12. Decorator
+1. Adapter
+1. Composite
+1. Proxy
+1. Fly weight
+1. Facade
+1. Bridge
+1. Decorator
 
 ### C. Behavioural
 
-    13. Template Method
-    14. Mediator
-    15. Chain of Responsibility
-    16. Observer
-    17. Strategy
-    18. Command
-    19. State
-    20. Visiter
-    21. Iterator
-    22. Interpretor
-    23. Memento
+1. Template Method
+1. Mediator
+1. Chain of Responsibility
+1. Observer
+1. Strategy
+1. Command
+1. State
+1. Visiter
+1. Iterator
+1. Interpretor
+1. Memento
