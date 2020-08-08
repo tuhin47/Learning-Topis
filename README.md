@@ -36,7 +36,7 @@ Best practices are called as Design Patterns
 1. Template Method
 1. Mediator
 1. Chain of Responsibility
-1. Observer
+1. [Observer](Observer-Design-Pattern.md)
 1. Strategy
 1. Command
 1. State
