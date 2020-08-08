@@ -3,7 +3,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Java',
+  title: 'Learn Topics',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -39,8 +39,9 @@ module.exports = {
       }
     ],
     sidebar: [
-      ['/', 'Design Pattern'],
-      '/docs/more/more-topic'
+      '/',
+      '/docs/system-design/sytem-design',
+      ['/docs/more/more-topic','More Topics Java']
     ],
   },
 

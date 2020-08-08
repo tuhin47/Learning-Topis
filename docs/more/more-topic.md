@@ -21,7 +21,7 @@ The difference is that the inputs to formal parameters are values, while the inp
 Code that uses generics has many benefits over non-generic code:
 
 - Stronger type checks at compile time.
-A Java compiler applies strong type checking to generic code and issues errors if the code violates type safety. 
+A Java compiler applies strong type checking to generic code and issues errors if the code violates type safety.
 Fixing compile-time errors is easier than fixing runtime errors, which can be difficult to find.
 - Elimination of casts.
 - Enabling programmers to implement generic algorithms.
