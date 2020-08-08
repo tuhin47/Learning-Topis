@@ -21,7 +21,7 @@
 
 ### B. Structural Design Patterns
 
-1. Adapter
+1. [Adapter](Adapter-Design-Pattern.md)
 1. Composite
 1. Proxy
 1. Fly weight
