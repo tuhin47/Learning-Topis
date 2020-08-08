@@ -44,3 +44,9 @@ Best practices are called as Design Patterns
 1. Iterator
 1. Interpretor
 1. Memento
+
+## Comparable Vs Comparator in Java
+
+[Link](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
+ **or**
+[video](https://www.youtube.com/watch?v=oAp4GYprVHM) :
