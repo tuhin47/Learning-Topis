@@ -19,7 +19,7 @@ Best practices are called as Design Patterns
 2. [Factory](Factory-Design-Pattern.md)
 3. Abstract factory
 4. [Builder](Builder-Design-Pattern.md)
-5. Prototype
+5. [Prototype](Prototype-Design-Pattern.md)
 
 ### B. Structural Design Patterns
 
