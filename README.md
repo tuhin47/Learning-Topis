@@ -14,7 +14,7 @@
 ### A. Creational Design Pattern
 
 1. Singleton
-2. [Factory](Factory-Design-Pattern-Theory.md)
+2. [Factory](Factory-Design-Pattern.md)
 3. Abstract factory
 4. [Builder](Builder-Design-Pattern.md)
 5. Prototype
