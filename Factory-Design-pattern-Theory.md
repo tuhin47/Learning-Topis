@@ -1,4 +1,4 @@
-# Factory Design pattern Theory
+# Factory Design Pattern Theory
 
 >Factory design pattern belongs to Creational design pattern which belongs to Design Patterns in java.
 [This video](https://www.youtube.com/watch?v=pt1IbV1aSZ4&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol&index=3) contains theory sesssion on factory design pattern.
