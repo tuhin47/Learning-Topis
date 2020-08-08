@@ -16,7 +16,7 @@
 1. Singleton
 2. [Factory](Factory-Design-Pattern-Theory.md)
 3. Abstract factory
-4. Builder
+4. [Builder](Builder-Design-Pattern.md)
 5. Prototype
 
 ### B. Structural Design Patterns
