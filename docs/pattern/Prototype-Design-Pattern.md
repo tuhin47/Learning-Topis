@@ -5,7 +5,7 @@ Prototype design pattern belongs to Creational design pattern which belongs to D
 Prototype pattern refers to creating duplicate object while keeping performance in mind.
 ***Trainer: Navin Reddy***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZ76x13Nm8Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nZ76x13Nm8Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - Shallow copy
 - Deep copy
