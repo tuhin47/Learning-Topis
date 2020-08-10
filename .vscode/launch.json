@@ -1,26 +1,25 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-      {
-        "command": "yarn vuepress dev --port 3030",
-        "name": "DEV",
-        "request": "launch",
-        "type": "node-terminal",
-        "cwd": "${workspaceRoot}",
-        "autoAttachChildProcesses": true,
-        "skipFiles": ["<node_internals>/**"]
-      },
-      {
-        "type": "chrome",
-        "request": "launch",
-        "name": "vuejs: chrome debug",
-        "url": "http://localhost:3030",
-        "webRoot": "${workspaceFolder}/src",
-        "breakOnLoad": true,
-        "sourceMapPathOverrides": {
-          "webpack:///src/*": "${webRoot}/*"
-        }
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "yarn vuepress dev --port 3030",
+      "name": "DEV",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceRoot}",
+      "autoAttachChildProcesses": true,
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "vuejs: chrome debug",
+      "url": "http://localhost:3030",
+      "webRoot": "${workspaceFolder}/src",
+      "breakOnLoad": true,
+      "sourceMapPathOverrides": {
+        "webpack:///src/*": "${webRoot}/*"
       }
-    ]
-  }
-  
+    }
+  ]
+}
