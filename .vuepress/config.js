@@ -29,6 +29,8 @@ module.exports = {
     repo: 'https://tuhin47.github.io/Portfolio/',
     docsDir: '/',
     lastUpdated: true,
+    // displayAllHeaders: true,
+   // activeHeaderLinks: false, // Default: true
     nav: [
       {
         text: 'Portfoilo',
@@ -36,7 +38,21 @@ module.exports = {
       }
     ],
     sidebar: [
-      '/',
+      {
+        title: 'Java Design Patterns',   // required
+        path: '/',      // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 2,    // optional, defaults to 1
+        children: [
+          ['/','Introduction'],{
+            title: 'Creational Design',   // required
+        children: ['docs/pattern/Singleton-Design-Pattern.md',
+        'docs/pattern/Factory-Design-Pattern.md',
+        'docs/pattern/Builder-Design-Pattern.md',
+        'docs/pattern/Prototype-Design-Pattern.md',]
+          },
+      ]
+    },
       '/docs/system-design/sytem-design',
       ['/docs/more/more-topic','More Topics Java']
     ],

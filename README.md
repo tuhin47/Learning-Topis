@@ -1,4 +1,4 @@
-# Design Patterns in Java 
+# Design Patterns in Java
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
 
@@ -6,7 +6,7 @@ Best practices are called as Design Patterns
 
 ## Principles of Design Patterns
 
-- Composition over inheretance is always preferred.
+- Composition over *inheritance* is always preferred.
 - Code for interface not for implementation.
 
 ## Types of Design Patterns
@@ -17,7 +17,7 @@ Best practices are called as Design Patterns
 
 ### A. Creational Design Pattern
 
-1. Singleton
+1. [Singleton](docs/pattern/Singleton-Design-Pattern.md)
 2. [Factory](docs/pattern/Factory-Design-Pattern.md)
 3. Abstract factory
 4. [Builder](docs/pattern/Builder-Design-Pattern.md)
