@@ -58,6 +58,14 @@ module.exports = {
               "docs/pattern/Prototype-Design-Pattern.md",
             ],
           },
+          {
+            title: "Structual Design", // required
+            path: "#b-structural-design-patterns",
+            children: [
+              "docs/pattern/Adapter-Design-Pattern.md",
+              "docs/pattern/Composite-Design-Pattern.md",
+            ],
+          },
         ],
       },
       "/docs/system-design/sytem-design",
