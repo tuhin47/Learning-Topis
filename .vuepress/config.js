@@ -47,7 +47,10 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 2, // optional, defaults to 1
         children: [
-          ["/", "Introduction"],
+          {
+            title:"Introduction",
+            path: "/",
+          },
           {
             title: "Creational Design", // required
             path: "/#a-creational-design-pattern",
@@ -68,7 +71,14 @@ module.exports = {
           },
         ],
       },
-      "/docs/system-design/sytem-design",
+      {
+        title:'System Design',
+        path:"/docs/system-design/sytem-design",
+        children: [
+          "/docs/system-design/horizontal-vs-vertical-scaling",
+          "/docs/system-design/nosql_database",
+        ]
+      },
       ["/docs/more/more-topic", "More Topics Java"],
     ],
   },
