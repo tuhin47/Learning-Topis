@@ -76,6 +76,10 @@ module.exports = {
         path:"/docs/system-design/sytem-design",
         children: [
           "/docs/system-design/horizontal-vs-vertical-scaling",
+          "docs/system-design/load_balancing.md",
+          "docs/system-design/sharding.md",
+          "docs/system-design/acid_vs_base.md",
+          "docs/system-design/hashing.md",
           "/docs/system-design/nosql_database",
         ]
       },
