@@ -29,7 +29,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "https://tuhin47.github.io/Portfolio/",
+    repo: "https://github.com/tuhin47/Learning-Topis",
     docsDir: "/",
     lastUpdated: true,
     // displayAllHeaders: true,
@@ -80,7 +80,8 @@ module.exports = {
           "docs/system-design/sharding.md",
           "docs/system-design/acid_vs_base.md",
           "docs/system-design/hashing.md",
-          "/docs/system-design/nosql_database",
+          "docs/system-design/nosql_database",
+          "docs/system-design/mvc_design_pattern"
         ]
       },
       ["/docs/more/more-topic", "More Topics Java"],

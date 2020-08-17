@@ -17,6 +17,8 @@ Best practices are called as Design Patterns
 
 ### A. Creational Design Pattern
 
+These design patterns are all about class instantiation or object creation.
+
 1. [Singleton](docs/pattern/Singleton-Design-Pattern.md)
 2. [Factory](docs/pattern/Factory-Design-Pattern.md)
 3. Abstract factory
@@ -24,6 +26,8 @@ Best practices are called as Design Patterns
 5. [Prototype](docs/pattern/Prototype-Design-Pattern.md)
 
 ### B. Structural Design Patterns
+
+These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
 
 1. [Adapter](docs/pattern/Adapter-Design-Pattern.md)
 1. [Composite](docs/pattern/Composite-Design-Pattern.md)
@@ -34,6 +38,8 @@ Best practices are called as Design Patterns
 1. Decorator
 
 ### C. Behavioural
+
+Behavioral patterns are about identifying common communication patterns between objects and realize these patterns.
 
 1. Template Method
 1. Mediator

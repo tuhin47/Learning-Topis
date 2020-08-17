@@ -3,6 +3,7 @@
 
 - [Comparable Vs Comparator](#comparable-vs-comparator-in-java)
 - [Generics](#generics-in-java)
+- [Instance variable Vs class variable](#difference-between-instance-variable-and-class-variable)
 
 ## Comparable Vs Comparator in Java
 
@@ -33,3 +34,25 @@ In this [video](https://www.youtube.com/watch?v=XMvznsY02Mk) we will see :
 - What is Type-safe Language
 - How to achieve type safety
 - An example or program of Generics implementation in Java
+
+## Difference between instance variable and a class variable.
+
+An instance variable is a variable which has one copy per object/instance. That means every object will have one copy of it.
+A class variable is a variable which has one copy per class. The class variables will not have a copy in the object.
+Example :
+
+```java
+class Employee {
+    int empNo;
+    String empName, department;
+    double salary;
+    static int officePhone;
+}
+```
+
+An object referred by empObj1 is created by using the following:
+```Employee empObj1 = new Employee();```
+
+The objects referred by instance variables empObj1 and empObj2 have separate copies empNo, empName, department, and salary. However, the officePhone belongs to the class(Class Variable) and can be accessed as Employee.officePhone.
+
+Static variable: Static variables are also known as Class variables.
