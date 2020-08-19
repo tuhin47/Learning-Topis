@@ -1,9 +1,22 @@
 
 # More Topics
 
+- [Features in Java](#features-in-java)
 - [Comparable Vs Comparator](#comparable-vs-comparator-in-java)
 - [Generics](#generics-in-java)
 - [Instance variable Vs class variable](#difference-between-instance-variable-and-class-variable)
+
+## Features in Java
+
+1. OOPs concepts
+    - Object-oriented
+    - Inheritance
+    - Encapsulation
+    - Polymorphism
+    - Abstraction
+1. Platform independent: A single program works on different platforms without any modification.
+1. High Performance: JIT (Just In Time compiler) enables high performance in Java. JIT converts the bytecode into machine language and then JVM starts the execution.
+1. Multi-threaded: A flow of execution is known as a Thread. JVM creates a thread which is called the main thread. The user can create multiple threads by extending the thread class or by implementing the Runnable interface.
 
 ## Comparable Vs Comparator in Java
 
