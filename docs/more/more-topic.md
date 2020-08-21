@@ -6,6 +6,8 @@
 - [Generics](#generics-in-java)
 - [Instance variable Vs class variable](#difference-between-instance-variable-and-class-variable)
 - [Array vs ArrayList in Java](#array-vs-arrayList-in-java)
+- [Array list vs Vector in Java](#-array-list-VS-Vector-in-Java)
+- [Heap and Stack Memory in Java](#heap-and-Stack-Memory-in-Java)
 - [StringBuffer Vs StringBuilder](#stringBuffer-vs-stringBuilder)
 
 ## Features in Java
@@ -133,6 +135,34 @@ Static variable: Static variables are also known as Class variables.
 - An array is basic functionality provided by Java. ArrayList is part of collection framework in Java. Therefore array members are accessed using [], while ArrayList has a set of methods to access elements and modify them.
 - Array can contain both primitive data types as well as objects of a class depending on the definition of the array. However, ArrayList only supports object entries, not the primitive data types.
 
+## Array list VS Vector in Java
+
+|ArrayList|Vector|
+|-|-|
+|Array List is not synchronized.| Vector is synchronized.|
+|Array List is fast as it’s non-synchronized.|Vector is slow as it is thread safe.|
+|Array List does not define the increment size.|Vector defines the increment size.|
+|Array List can only use Iterator for traversing an Array List.|Vector can use both Enumeration and Iterator for traversing.|
+
+## Heap and Stack Memory in Java
+
+The major difference between Heap and Stack memory are:
+
+|Features|Stack|Heap|
+|:-:|:-:|:-:|
+|**Memory**|Stack memory is used only by one thread of execution.|Heap memory is used by all the parts of the application.|
+|**Access**|Stack memory can’t be accessed by other threads.|Objects stored in the heap are globally accessible.|
+|**Memory Management**|Follows **LIFO** manner to free memory.|Memory management is based on the generation associated with each object.|
+|**Lifetime**|Exists until the end of execution of the thread.|Heap memory lives from the start till the end of application execution.|
+|**Usage**|Stack memory only contains local primitive and reference variables to objects in heap space.|Whenever an object is created, it’s always stored in the Heap space.|
+
 ## StringBuffer Vs StringBuilder
 
 ![StringBuffer Vs StringBuilder](./stringbuffer-vs-stringbuilder1.jpg)
+
+|Factor|String|StringBuilder|StringBuffer|
+|:-:|:-:|:-:|:-:|
+|**Storage Area**|Constant String Pool|Heap Area|Heap Area|
+|**Mutability**|Immutable|Mutable|Mutable|
+|**Thread Safety**|Yes|No|Yes|
+|**Performance**|Fast|More efficient|Less efficient|
