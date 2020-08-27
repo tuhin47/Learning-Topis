@@ -85,6 +85,7 @@ module.exports = {
         ]
       },
       ["/docs/more/more-topic", "More Topics Java"],
+      ["/docs/sql-learning/sql-learning-links"]
     ],
   },
 
