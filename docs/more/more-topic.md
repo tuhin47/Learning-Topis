@@ -8,7 +8,7 @@
 - [Array vs ArrayList in Java](#array-vs-arrayList-in-java)
 - [Array list vs Vector in Java](#-array-list-VS-Vector-in-Java)
 - [Heap and Stack Memory in Java](#heap-and-Stack-Memory-in-Java)
-- [StringBuffer Vs StringBuilder](#stringBuffer-vs-stringBuilder)
+- [String, StringBuffer and StringBuilder](#string-stringbuffer-and-stringbuilder)
 
 ## Features in Java
 
@@ -156,9 +156,7 @@ The major difference between Heap and Stack memory are:
 |**Lifetime**|Exists until the end of execution of the thread.|Heap memory lives from the start till the end of application execution.|
 |**Usage**|Stack memory only contains local primitive and reference variables to objects in heap space.|Whenever an object is created, it’s always stored in the Heap space.|
 
-## StringBuffer Vs StringBuilder
-
-![StringBuffer Vs StringBuilder](./stringbuffer-vs-stringbuilder1.jpg)
+## String, StringBuffer and StringBuilder
 
 |Factor|String|StringBuilder|StringBuffer|
 |:-:|:-:|:-:|:-:|
@@ -166,3 +164,11 @@ The major difference between Heap and Stack memory are:
 |**Mutability**|Immutable|Mutable|Mutable|
 |**Thread Safety**|Yes|No|Yes|
 |**Performance**|Fast|More efficient|Less efficient|
+
+### String vs StringBuffer
+
+![String Vs StringBuffer](./string-vs-stringbuffer.png)
+
+### StringBuffer vs StringBuilder
+
+![StringBuffer Vs StringBuilder](./stringbuffer-vs-stringbuilder1.jpg)
