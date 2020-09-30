@@ -2,12 +2,12 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
 
-Best practices are called as Design Patterns
+The Best practices are called as Design Patterns
 
 ## Principles of Design Patterns
 
 - Composition over *inheritance* is always preferred.
-- Code for interface not for implementation.
+- Code for the interface not for implementation.
 
 ## Types of Design Patterns
 
@@ -48,7 +48,7 @@ Behavioral patterns are about identifying common communication patterns between 
 1. Strategy
 1. Command
 1. State
-1. Visiter
+1. Visitor
 1. Iterator
-1. Interpretor
+1. Interpreter
 1. Memento

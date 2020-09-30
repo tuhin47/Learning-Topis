@@ -14,7 +14,7 @@ keywords that control which other classes can access a variable or method in a c
 the act of simplifying a concept in context. In object-oriented design, it is the simplification of the real world entity into its most important attributes and behaviours for the purpose of the software.
 
 ## Attribute 
-a property that object of a class must have, even though their values may be different. For example, two students objects each have a grade attribute, even though one has an _A_ , the other has a _B_. 
+a property that object of a class must have, even though their values may be different. For example, two students objects each have a grade attribute, even though one has an _A_ , the other has a _B_.
 
 ## Behaviours 
 the actions that an object can take
@@ -23,7 +23,7 @@ the actions that an object can take
 an object whose role is to interface with an external component, such as a user or an adjacent system.
 
 ## Class diagram 
-a UML diagram for showing the behaviours, attributes, inheritance, and connections of classes 
+a UML diagram for showing the behaviours, attributes, inheritance, and connections of classes.
 
 ## Code review 
 systematic reviews of written code done by the development team. Not only to find mistakes, but to get developers using the same conventions, constructs, design principles, etc.
@@ -56,130 +56,130 @@ stands for **class responsibility collaborator** is a technique for summarizing 
 a situation in which the system can never continue because subprocesses need other subprocesses to act before they can continue
 
 ## decomposition
-breaking an entity into parts that can be implemented separately 
+breaking an entity into parts that can be implemented separately.
 
 ## degree
-when talking about coupling, degree is the number of connections between the two modules of interest. This is one dimension of how coupled these modules are. 
+when talking about coupling, degree is the number of connections between the two modules of interest. This is one dimension of how coupled these modules are.
 
 ## design
 the process of planning a software solution, taking the requirements and constraints into account. Divided into higher-level conceptual design and more specific technical design.
 
 ## design patterns
-established solutions to common coding problems. Characterized by their general form and function rather than by specific code 
+established solutions to common coding problems. Characterized by their general form and function rather than by specific code.
 
 ## ease
-when talking about coupling, ease is how obvious connections are between modules. This is one dimension of how coupled these modules are. 
+when talking about coupling, ease is how obvious connections are between modules. This is one dimension of how coupled these modules are.
 
 ## encapsulation
-bundling attributes and behaviours into an object, exposing features of that object to other objects as necessary, and restricting the remaining features 
+bundling attributes and behaviours into an object, exposing features of that object to other objects as necessary, and restricting the remaining features.
 
 ## entity
-the role or behaviour that is being represented by a software object or process 
+the role or behaviour that is being represented by a software object or process.
 
 ## flexibility
-when talking about coupling, flexibility is how easily a module can be swapped for a different module. This is one dimension of coupling. 
+when talking about coupling, flexibility is how easily a module can be swapped for a different module. This is one dimension of coupling.
 
 ## getter
-a method for getting the value of a class variable which is not directly accessible 
+a method for getting the value of a class variable which is not directly accessible.
 
 ## generalization
-factoring out common features of classes or functions that can be reused in other places. Allows for more code reuse 
+factoring out common features of classes or functions that can be reused in other places. Allows for more code reuse.
 
 ## global variable
-a variable that is accessible by any subroutine or subcomponent 
+a variable that is accessible by any subroutine or subcomponent.
 
 ## flexibility
-the ability of a design to adapt to changes or be adapted to different purposes 
+the ability of a design to adapt to changes or be adapted to different purposes.
 
 ## implementation 
-the process of creating a working program from the design 
+the process of creating a working program from the design.
 
 ## information hiding
-designing classes so that the information that other classes do not need is hidden away from them.  
+designing classes so that the information that other classes do not need is hidden away from them. .
 
 ## inheritance
-attributes or behaviours that subclasses inherit from a superclass or implement through an interface 
+attributes or behaviours that subclasses inherit from a superclass or implement through an interface.
 
 ## instantiate
-to create an object of a class 
+to create an object of a class.
 
 ## interface inheritance
-a method of inheritance wherein if a class implements an interface, it must define all the methods specified in the interface 
+a method of inheritance wherein if a class implements an interface, it must define all the methods specified in the interface.
 
 ## Liskov substitution principle
-a principle stating that a superclass should be able to be replaced by its subclass without changing behaviour significantly 
+a principle stating that a superclass should be able to be replaced by its subclass without changing behaviour significantly.
 
 ## local variable
-a variable accessible only to one class or subroutine 
+a variable accessible only to one class or subroutine.
 
 ## maintenance
 modifying software after delivery to fix, improve, or change features
 maintainable
-the ability of code to be changed 
+the ability of code to be changed.
 
 ## model
-the abstract representation of the key concepts and relationships that make up a software solution 
+the abstract representation of the key concepts and relationships that make up a software solution.
 
 ## model checking
-a systematic check of all of the system's states. Consists of several steps: modeling phase, running phase, and analysis phase 
+a systematic check of all the system's states. Consists of several steps: modeling phase, running phase, and analysis phase.
 
 ## module
-general term to refer to a programming unit, like a class or a method. 
+general term to refer to a programming unit, like a class or a method.
 
 ## namespace
-an abstract container for a group of related modules, given a unique identifier. 
+an abstract container for a group of related modules, given a unique identifier.
 
 ## object-oriented modelling
-modelling a software solution using concepts from object-oriented languages such as Java. Characterized by representing key concepts with software objects. 
+modelling a software solution using concepts from object-oriented languages such as Java. Characterized by representing key concepts with software objects.
 
 ## override
 a subclass may have a method that is already in the superclass, in which case the subclass' method will be used instead.
 package
-a means of organizing related classes into the same namespace. 
+a means of organizing related classes into the same namespace.
 
 ## polymorphism
-the ability to interact with objects of different types in the same way. Usually achieved through inheritance or through interfaces in Java 
+the ability to interact with objects of different types in the same way. Usually achieved through inheritance or through interfaces in Java.
 
 ## programming paradigm
-the style or way in which programming achieves its objectives, which can vary by language and toolset 
+the style or way in which programming achieves its objectives, which can vary by language and toolset.
 
 ## quality attributes
-properties of a software system that indicate its quality 
+properties of a software system that indicate its quality.
 
 ## requirements
-the requirements that the software will be designed to fulfill. These could be functional requirements such as providing some result, or business requirements such as being user-friendly, or meeting budgetary restrictions 
+the requirements that the software will be designed to fulfill. These could be functional requirements such as providing some result, or business requirements such as being user-friendly, or meeting budgetary restrictions.
 
 ## responsibility
-the purpose or function of a component of the software 
+the purpose or function of a component of the software.
 
 ## reusable
-the ability of code to be reused in different contexts 
+the ability of code to be reused in different contexts.
 
-## rule of least astonishment
-a design principle dictating that a component should behave as one would expect it to behave 
+## Rule of the least astonishment
+a design principle dictating that a component should behave as one would expect it to behave.
 
 ## separation of concerns
 a principle dictating that different concerns should be in different modules
 service-oriented architecture
-a type of architecture characterized by providing services to external clients. The clients do not know how these services are provided. 
+a type of architecture characterized by providing services to external clients. The clients do not know how these services are provided.
 
 ## sequence diagram
-a UML diagram that shows the sequence of actions that form one process 
+a UML diagram that shows the sequence of actions that form one process.
 
 ## setter
-a method for setting the value of a class variable which is not directly accessible. Allows for gatekeeping e.g. restricting the values to which the variable can be set 
+a method for setting the value of a class variable which is not directly accessible. Allows for gate-keeping e.g. restricting the values to which the variable can be set.
 
 ## software architecture
-the higher-level structure of a software system; how various components are arranged into a coherent and functional whole 
+the higher-level structure of a software system; how various components are arranged into a coherent and functional whole.
 
 ## state diagram
-a UML diagram that shows the different states of a system 
+a UML diagram that shows the different states of a system.
 
 ## tradeoff
-a decision between alternatives that each provide benefits and downsides 
+a decision between alternatives that each provide benefits and downsides.
 
 ## Unified Modelling Language
-a visual design language encompassing many different diagrams that depict software in different ways 
+a visual design language encompassing different diagrams that depict software in different ways.
 
 ## verification
 confirming that the software solution meets the requirements 
