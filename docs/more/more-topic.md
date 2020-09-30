@@ -9,6 +9,7 @@
 - [Array list vs Vector in Java](#-array-list-VS-Vector-in-Java)
 - [Heap and Stack Memory in Java](#heap-and-Stack-Memory-in-Java)
 - [String, StringBuffer and StringBuilder](#string-stringbuffer-and-stringbuilder)
+- [Object Oriented Design Definitions](object-oriented-design-definitions.md)
 
 ## Features in Java
 
