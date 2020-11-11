@@ -168,8 +168,8 @@ The major difference between Heap and Stack memory are:
 
 ### String vs StringBuffer
 
-![String Vs StringBuffer](string-vs-stringbuffer.png)
+![String Vs StringBuffer](./string-vs-stringbuffer.png)
 
 ### StringBuffer vs StringBuilder
 
-![StringBuffer Vs StringBuilder](stringbuffer-vs-stringbuilder1.jpg)
+![StringBuffer Vs StringBuilder](./stringbuffer-vs-stringbuilder1.jpg)
