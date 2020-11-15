@@ -7,8 +7,8 @@
 * [Array vs ArrayList in Java](more-topic.md#array-vs-arraylist-in-java)
 * [Array list vs Vector in Java](more-topic.md#array-list-vs-vector-in-java)
 * [Heap and Stack Memory in Java](more-topic.md#heap-and-Stack-Memory-in-Java)
-* [String, StringBuffer and StringBuilder](more-topic.md#string-stringbuffer-and-stringbuilder)
-* [Object Oriented Design Definitions](object-oriented-design-definitions.md)
+* [String, StringBuffer, and StringBuilder](more-topic.md#string-stringbuffer-and-stringbuilder)
+* [Object-Oriented Design Definitions](object-oriented-design-definitions.md)
 
 ## Features in Java
 
@@ -118,9 +118,9 @@ class Employee {
 }
 ```
 
-An object referred by empObj1 is created by using the following: `Employee empObj1 = new Employee();`
+An object referred by `empObj1` is created by using the following: `Employee empObj1 = new Employee();`
 
-The objects referred by instance variables empObj1 and empObj2 have separate copies empNo, empName, department, and salary. However, the officePhone belongs to the class\(Class Variable\) and can be accessed as Employee.officePhone.
+The objects referred by instance variables `empObj1` and `empObj2` have separate copies `empNo`, `empName`, `department`, and `salary`. However, the `officePhone` belongs to the `class`\(Class Variable\) and can be accessed as `Employee.officePhone`.
 
 Static variable: Static variables are also known as Class variables.
 
