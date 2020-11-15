@@ -1,6 +1,6 @@
 # Java Collections
 
-**Collection** is the root of the Java. Collection framework and most of the collections in Java are inherited from this interface except Map Interface ![Collection](../../.gitbook/assets/Collection.png)
+**Collection Interface** is the root of Java Collections. Collection framework and most of the collections in Java are inherited from this interface except Map Interface ![Collection](../../.gitbook/assets/Collection.png)
 
 The framework includes:
 
@@ -19,7 +19,7 @@ The framework includes:
 ## Queue
 
 * follows a FIFO approach
-* Elements adds at rear end and removes from the front end.
+* Element adds at the rear end and removes from the front end.
 
 ## Set
 
@@ -35,5 +35,5 @@ The framework includes:
 
 ## BlockingQueue
 
-The Java BlockingQueue interface, java.util.concurrent.BlockingQueue, represents a queue which is thread safe to put elements into, and take elements out of from. In other words, multiple threads can be inserting and taking elements concurrently from a Java BlockingQueue, without any concurrency issues arising.
+The Java `BlockingQueue` interface, `java.util.concurrent.BlockingQueue`, represents a queue which is thread-safe to put elements into, and take elements out of from. In other words, multiple threads can be inserting and taking elements concurrently from a Java BlockingQueue, without any concurrency issues arising.
 
