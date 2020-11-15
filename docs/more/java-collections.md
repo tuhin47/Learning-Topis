@@ -21,7 +21,7 @@ The framework includes:
 * follows a FIFO approach
 * Elements adds at rear end and removes from the front end.
 
-  **Set:**
+## Set
 
 * Doesn’t define an order for the elements hence index-based search is not supported
 * Doesn’t contain duplicates

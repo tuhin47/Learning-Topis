@@ -9,6 +9,7 @@
 * [Heap and Stack Memory in Java](more-topic.md#heap-and-Stack-Memory-in-Java)
 * [String, StringBuffer, and StringBuilder](more-topic.md#string-stringbuffer-and-stringbuilder)
 * [Object-Oriented Design Definitions](object-oriented-design-definitions.md)
+* [Collection Framework](java-collections.md)
 
 ## Features in Java
 
