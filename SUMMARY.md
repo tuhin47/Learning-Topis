@@ -27,4 +27,3 @@
     * [ES6](docs/javascript/es6.md)
   * [SQL Learning](docs/sql-learning/README.md)
     * [SQL Learning Links](docs/sql-learning/sql-learning-links.md)
-

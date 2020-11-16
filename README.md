@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
 
-# Table of contents
+## Table of contents
 
 * [Documents](README.md)
   * [Java Patterns](docs/pattern/README.md)
@@ -31,4 +31,3 @@
     * [ES6](docs/javascript/es6.md)
   * [SQL Learning](docs/sql-learning/README.md)
     * [SQL Learning Links](docs/sql-learning/sql-learning-links.md)
-
