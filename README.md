@@ -4,9 +4,8 @@
 
 ## Table of contents
 
-* [Documents](README.md)
-  * [Java Patterns](docs/pattern/README.md)
-    * [Design Patterns in Java](docs/pattern/index.md)
+  * [Java Patterns](docs/pattern/java-design-pattern.md)
+    * [Design Patterns in Java](docs/pattern/java-design-pattern.md)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
     * [Prototype Design Pattern](docs/pattern/prototype-design-pattern.md)
     * [Composite Design Pattern Theory](docs/pattern/composite-design-pattern.md)
