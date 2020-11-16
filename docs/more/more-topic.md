@@ -62,7 +62,7 @@ A single object can refer to the super-class or sub-class depending on the refer
 ### Abstraction
 
 * An abstract class contains the keyword `abstract`
-* An abstract class may have a non-abstract method.
+* An abstract class may have non-abstract method.
 * The concrete Subclass which extends the Abstract class should provide the implementation for abstract methods.
 
 _**Abstract method**_: The method which has only the declaration and not the implementation is called the abstract method, and it has the keyword called `abstract` Declarations are the ends with a semicolon.

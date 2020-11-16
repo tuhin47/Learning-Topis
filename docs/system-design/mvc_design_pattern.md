@@ -1,4 +1,4 @@
-# MVC Design Pattern
+# MVC desing Pattern
 
 * The **Model** contains only the pure application data, it contains no logic describing how to present the data to a user.
 * The **View** presents the model’s data to the user. The view knows how to access the model’s data, but it does not know what this data means or what the user can do to manipulate it.
