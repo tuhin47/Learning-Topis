@@ -1,55 +1,34 @@
-# Design Patterns in Java
+# Learning Topics
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
 
-Best practices are called Design Patterns
+# Table of contents
 
-## Principles of Design Patterns
-
-* Composition over _inheritance_ is always preferred.
-* Code for the interface not for implementation.
-
-## Types of Design Patterns
-
-1. [Creational](./#a-creational-design-pattern)
-2. [Structural](./#b-structural-design-patterns)
-3. [Behavioural](./#c-behavioural)
-
-### A. Creational Design Pattern
-
-These design patterns are all about class instantiation or object creation.
-
-1. [Singleton](docs/pattern/singleton-design-pattern.md)
-2. [Factory](docs/pattern/factory-design-pattern.md)
-3. Abstract factory
-4. [Builder](docs/pattern/builder-design-pattern.md)
-5. [Prototype](docs/pattern/prototype-design-pattern.md)
-
-### B. Structural Design Patterns
-
-These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
-
-1. [Adapter](docs/pattern/adapter-design-pattern.md)
-2. [Composite](docs/pattern/composite-design-pattern.md)
-3. Proxy
-4. Fly weight
-5. Facade
-6. Bridge
-7. Decorator
-
-### C. Behavioural
-
-Behavioral patterns are about identifying common communication patterns between objects and realize these patterns.
-
-1. Template Method
-2. Mediator
-3. Chain of Responsibility
-4. [Observer](docs/pattern/observer-design-pattern.md)
-5. Strategy
-6. Command
-7. State
-8. Visitor
-9. Iterator
-10. Interpreter
-11. Memento
+* [Documents](README.md)
+  * [Java Patterns](docs/pattern/README.md)
+    * [Design Patterns in Java](docs/pattern/index.md)
+    * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
+    * [Prototype Design Pattern](docs/pattern/prototype-design-pattern.md)
+    * [Composite Design Pattern Theory](docs/pattern/composite-design-pattern.md)
+    * [Factory Design Pattern Theory](docs/pattern/factory-design-pattern.md)
+    * [Singleton Design Pattern](docs/pattern/singleton-design-pattern.md)
+    * [Adapter Design Pattern Theory](docs/pattern/adapter-design-pattern.md)
+    * [Builder Design Pattern in Java Theory](docs/pattern/builder-design-pattern.md)
+  * [System Design](docs/system-design/README.md)
+    * [Scaling](docs/system-design/horizontal-vs-vertical-scaling.md)
+    * [System Design Basics](docs/system-design/sytem-design.md)
+    * [MVC desing Pattern](docs/system-design/mvc_design_pattern.md)
+    * [ACID vs BASE and CAP Theorem](docs/system-design/acid_vs_base.md)
+    * [NoSQL database](docs/system-design/nosql_database.md)
+    * [Hashing and Consisting Hasihing](docs/system-design/hashing.md)
+    * [Sharding](docs/system-design/sharding.md)
+    * [Load Balancing](docs/system-design/load_balancing.md)
+  * [More Java](docs/more/README.md)
+    * [More Topics](docs/more/more-topic.md)
+    * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
+    * [Java Collections](docs/more/java-collections.md)
+  * [Javascript](docs/javascript/README.md)
+    * [ES6](docs/javascript/es6.md)
+  * [SQL Learning](docs/sql-learning/README.md)
+    * [SQL Learning Links](docs/sql-learning/sql-learning-links.md)
 

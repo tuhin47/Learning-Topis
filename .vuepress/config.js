@@ -43,30 +43,30 @@ module.exports = {
     sidebar: [
       {
         title: "Java Design Patterns", // required
-        path: "/", // optional, link of the title, which should be an absolute path and must exist
+        path: "/docs/pattern/index", // optional, link of the title, which should be an absolute path and must exist
         collapsable: true, // optional, defaults to true
         sidebarDepth: 2, // optional, defaults to 1
         children: [
           {
             title:"Introduction",
-            path: "/",
+            path: "/docs/pattern/",
           },
           {
             title: "Creational Design", // required
-            path: "/#a-creational-design-pattern",
+            path: "/docs/pattern/#a-creational-design-pattern",
             children: [
-              "docs/pattern/Singleton-Design-Pattern.md",
-              "docs/pattern/Factory-Design-Pattern.md",
-              "docs/pattern/Builder-Design-Pattern.md",
-              "docs/pattern/Prototype-Design-Pattern.md",
+              "docs/pattern/singleton-design-pattern.md",
+              "docs/pattern/factory-design-pattern.md",
+              "docs/pattern/builder-design-pattern.md",
+              "docs/pattern/prototype-design-pattern.md",
             ],
           },
           {
-            title: "Structual Design", // required
-            path: "#b-structural-design-patterns",
+            title: "Structural Design", // required
+            path: "/docs/pattern/#b-structural-design-patterns",
             children: [
-              "docs/pattern/Adapter-Design-Pattern.md",
-              "docs/pattern/Composite-Design-Pattern.md",
+              "docs/pattern/adapter-design-pattern.md",
+              "docs/pattern/composite-design-pattern.md",
             ],
           },
         ],
