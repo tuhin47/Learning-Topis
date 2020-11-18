@@ -2,7 +2,7 @@
 
 * [Learning Topics](README.md)
 * [Documents](docs/README.md)
-  * [pattern](docs/pattern/README.md)
+  * [Java Patterns](docs/pattern/README.md)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
     * [Prototype Design Pattern](docs/pattern/prototype-design-pattern.md)
     * [Composite Design Pattern Theory](docs/pattern/composite-design-pattern.md)

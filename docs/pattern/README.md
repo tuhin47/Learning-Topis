@@ -1,2 +1,2 @@
-# pattern
+# Java Patterns
 
