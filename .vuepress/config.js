@@ -40,53 +40,6 @@ module.exports = {
         link: "https://tuhin47.github.io/Portfolio/",
       },
     ],
-    sidebar: [
-      {
-        title: "Java Design Patterns", // required
-        path: "/docs/pattern/java-design-pattern",
-        collapsable: true, // optional, defaults to true
-        sidebarDepth: 2, // optional, defaults to 1
-        children: [
-          {
-            title:"Introduction",
-            path: "/docs/pattern/java-design-pattern",
-          },
-          {
-            title: "Creational Design", // required
-            path: "/docs/pattern/java-design-pattern",
-            children: [
-              "/docs/pattern/singleton-design-pattern",
-              "docs/pattern/factory-design-pattern.md",
-              "docs/pattern/builder-design-pattern.md",
-              "docs/pattern/prototype-design-pattern.md",
-            ],
-          },
-          {
-            title: "Structural Design", // required
-            path: "docs/pattern/java-design-pattern",
-            children: [
-              "/docs/pattern/adapter-design-pattern",
-              "docs/pattern/composite-design-pattern.md",
-            ],
-          },
-        ],
-      },
-      {
-        title:'System Design',
-        path:"/docs/system-design/system-design",
-        children: [
-          "/docs/system-design/horizontal-vs-vertical-scaling",
-          "docs/system-design/load_balancing",
-          "docs/system-design/sharding",
-          "docs/system-design/acid_vs_base",
-          "docs/system-design/hashing",
-          "docs/system-design/nosql_database",
-          "docs/system-design/mvc_design_pattern"
-        ]
-      },
-      ["/docs/more/more-topic", "More Topics Java"],
-      ["/docs/sql-learning/sql-learning-links","Sql Learning Links"]
-    ],
   },
 
   /**
