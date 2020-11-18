@@ -73,7 +73,7 @@ module.exports = {
       },
       {
         title:'System Design',
-        path:"/docs/system-design/sytem-design",
+        path:"/docs/system-design/system-design",
         children: [
           "/docs/system-design/horizontal-vs-vertical-scaling",
           "/docs/system-design/load_balancing",
