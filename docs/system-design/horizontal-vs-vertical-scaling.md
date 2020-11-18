@@ -11,7 +11,6 @@
 | Many Servers | Huge Server |
 | Load Balancing Required | N/A |
 | Resilient | Single Port failure |
-| Network Calls\(RPC\)-&gt;  transactions among servers | Inter-Process Communication |
+| Network Calls\(RPC\) - transactions among servers | Inter-Process Communication |
 | Data Inconsistency | Consistent |
 | Scales well | Hardware limit |
-
