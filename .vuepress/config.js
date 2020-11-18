@@ -43,19 +43,19 @@ module.exports = {
     sidebar: [
       {
         title: "Java Design Patterns", // required
-        path: "/", // optional, link of the title, which should be an absolute path and must exist
+        path: "/docs/pattern/java-design-pattern",
         collapsable: true, // optional, defaults to true
         sidebarDepth: 2, // optional, defaults to 1
         children: [
           {
             title:"Introduction",
-            path: "/",
+            path: "/docs/pattern/java-design-pattern",
           },
           {
             title: "Creational Design", // required
-            path: "/",
+            path: "/docs/pattern/java-design-pattern",
             children: [
-              "docs/pattern/singleton-design-pattern.md",
+              "/docs/pattern/singleton-design-pattern",
               "docs/pattern/factory-design-pattern.md",
               "docs/pattern/builder-design-pattern.md",
               "docs/pattern/prototype-design-pattern.md",
@@ -63,9 +63,9 @@ module.exports = {
           },
           {
             title: "Structural Design", // required
-            path: "/",
+            path: "docs/pattern/java-design-pattern",
             children: [
-              "docs/pattern/adapter-design-pattern.md",
+              "/docs/pattern/adapter-design-pattern",
               "docs/pattern/composite-design-pattern.md",
             ],
           },
@@ -75,6 +75,7 @@ module.exports = {
         title:'System Design',
         path:"/docs/system-design/system-design",
         children: [
+          "/docs/system-design/horizontal-vs-vertical-scaling",
           "docs/system-design/load_balancing",
           "docs/system-design/sharding",
           "docs/system-design/acid_vs_base",
