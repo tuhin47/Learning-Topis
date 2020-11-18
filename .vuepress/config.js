@@ -40,6 +40,54 @@ module.exports = {
         link: "https://tuhin47.github.io/Portfolio/",
       },
     ],
+    sidebar: [
+      {
+        title: "Java Design Patterns", // required
+        path: "/docs/pattern/java-design-pattern", // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 2, // optional, defaults to 1
+        children: [
+          {
+            title:"Introduction",
+            path: "/docs/pattern/java-design-pattern",
+          }
+          /*,
+          {
+            title: "Creational Design", // required
+            path: "/#a-creational-design-pattern",
+            children: [
+              "docs/pattern/Singleton-Design-Pattern.md",
+              "docs/pattern/Factory-Design-Pattern.md",
+              "docs/pattern/Builder-Design-Pattern.md",
+              "docs/pattern/Prototype-Design-Pattern.md",
+            ],
+          },
+          {
+            title: "Structual Design", // required
+            path: "#b-structural-design-patterns",
+            children: [
+              "docs/pattern/Adapter-Design-Pattern.md",
+              "docs/pattern/Composite-Design-Pattern.md",
+            ],
+          },*/
+        ],
+      },
+      {
+        title:'System Design',
+        path:"/docs/system-design/system-design",
+        children: [
+          "/docs/system-design/horizontal-vs-vertical-scaling",
+          "docs/system-design/load_balancing.md",
+          "docs/system-design/sharding.md",
+          "docs/system-design/acid_vs_base.md",
+          "docs/system-design/hashing.md",
+          "docs/system-design/nosql_database",
+          "docs/system-design/mvc_design_pattern"
+        ]
+      },
+      ["/docs/more/more-topic", "More Topics Java"],
+      ["/docs/sql-learning/sql-learning-links","Sql Learning Links"]
+    ],
   },
 
   /**
@@ -47,3 +95,4 @@ module.exports = {
    */
   plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
 };
+
