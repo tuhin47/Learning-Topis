@@ -55,18 +55,18 @@ module.exports = {
             title: "Creational Design", // required
             path: "/docs/pattern/java-design-pattern#a-creational-design-pattern",
             children: [
-              "/docs/pattern/singleton-design-pattern",
-              "/docs/pattern/factory-design-pattern",
-              "/docs/pattern/builder-design-pattern",
-              "/docs/pattern/prototype-design-pattern",
+              "docs/pattern/singleton-design-pattern.md",
+              "docs/pattern/factory-design-pattern.md",
+              "docs/pattern/builder-design-pattern.md",
+              "docs/pattern/prototype-design-pattern.md",
             ],
           },
           {
             title: "Structural Design", // required
             path: "/docs/pattern/java-design-pattern#b-structural-design-patterns",
             children: [
-              "/docs/pattern/adapter-design-pattern",
-              "/docs/pattern/composite-design-pattern",
+              "docs/pattern/adapter-design-pattern.md",
+              "docs/pattern/composite-design-pattern.md",
             ],
           },
         ],
@@ -75,13 +75,13 @@ module.exports = {
         title:'System Design',
         path:"/docs/system-design/system-design",
         children: [
-          "/docs/system-design/horizontal-vs-vertical-scaling",
-          "/docs/system-design/load_balancing",
-          "/docs/system-design/sharding",
-          "/docs/system-design/acid_vs_base",
-          "/docs/system-design/hashing",
-          "/docs/system-design/nosql_database",
-          "/docs/system-design/mvc_design_pattern"
+          "docs/system-design/horizontal-vs-vertical-scaling",
+          "docs/system-design/load_balancing",
+          "docs/system-design/sharding",
+          "docs/system-design/acid_vs_base",
+          "docs/system-design/hashing",
+          "docs/system-design/nosql_database",
+          "docs/system-design/mvc_design_pattern"
         ]
       },
       ["/docs/more/more-topic", "More Topics Java"],
