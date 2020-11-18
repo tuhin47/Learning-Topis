@@ -9,26 +9,26 @@ Best practices are called **Design Patterns**
 
 ## Types of Design Patterns
 
-1. [Creational](#a-creational-design-pattern)
-2. [Structural](#b-structural-design-patterns)
-3. [Behavioural](#c-behavioural)
+1. [Creational](java-design-pattern.md#a-creational-design-pattern)
+2. [Structural](java-design-pattern.md#b-structural-design-patterns)
+3. [Behavioural](java-design-pattern.md#c-behavioural)
 
 ### A. Creational Design Pattern
 
 These design patterns are all about class instantiation or object creation.
 
-1. [Singleton](singleton-design-pattern.md)
-2. [Factory](factory-design-pattern.md)
+1. [Singleton](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/singleton-design-pattern.md)
+2. [Factory](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/factory-design-pattern.md)
 3. Abstract factory
-4. [Builder](builder-design-pattern.md)
-5. [Prototype](prototype-design-pattern.md)
+4. [Builder](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/builder-design-pattern.md)
+5. [Prototype](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/prototype-design-pattern.md)
 
 ### B. Structural Design Patterns
 
 These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
 
-1. [Adapter](adapter-design-pattern.md)
-2. [Composite](composite-design-pattern.md)
+1. [Adapter](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/adapter-design-pattern.md)
+2. [Composite](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/composite-design-pattern.md)
 3. Proxy
 4. Fly weight
 5. Facade
@@ -42,7 +42,7 @@ Behavioral patterns are about identifying common communication patterns between 
 1. Template Method
 2. Mediator
 3. Chain of Responsibility
-4. [Observer](observer-design-pattern.md)
+4. [Observer](https://github.com/tuhin47/Learning-Topis/tree/8fba622141e076d6aeb269670c6949f2f17ce2c8/docs/pattern/observer-design-pattern.md)
 5. Strategy
 6. Command
 7. State

@@ -1,4 +1,4 @@
-# Hashing and Consisting Hasihing
+# Hashing and Consisting Hashing
 
 ## Hashing
 

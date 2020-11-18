@@ -1,20 +1,20 @@
-# Object Oriented Design Definitions
+# Object-Oriented Design Definitions
 
 ## Abstract
 
-in object-oriented design, a class cannot be instantiated directly, but must be subclassed. It can also apply to a method or attribute of a class.
+in object-oriented design, a class cannot be instantiated directly but must be subclassed. It can also apply to a method or attribute of a class.
 
 ## Abstract Data types
 
-data types that are defined by their behaviour as opposed to their structure.Defined by the developer rather than the programming language.
+data types that are defined by their behavior as opposed to their structure. Defined by the developer rather than the programming language.
 
 ## Access Modifiers
 
-keywords that control which other classes can access a variable or method in a class. These include **public**, **protected**, **private**, and no keyword, sometimes called **default**
+keywords that control which other classes can access a variable or method in a class. These include **public**, **protected**, **private**, and no keyword sometimes called **default**
 
 ## Abstraction
 
-the act of simplifying a concept in context. In object-oriented design, it is the simplification of the real world entity into its most important attributes and behaviours for the purpose of the software.
+the act of simplifying a concept in context. In object-oriented design, it is the simplification of the real world entity into its most important attributes and behaviors for the purpose of the software.
 
 ## Attribute
 
@@ -30,7 +30,7 @@ an object whose role is to interface with an external component, such as a user 
 
 ## Class diagram
 
-a UML diagram for showing the behaviours, attributes, inheritance, and connections of classes.
+a UML diagram for showing the behaviors, attributes, inheritance, and connections of classes.
 
 ## Code review
 
@@ -38,7 +38,7 @@ systematic reviews of written code done by the development team. Not only to fin
 
 ## Cohesion
 
-describing the complexity within a module, e.g. a class or a method. **high cohesion** describes a module that has a clear purpose and is no more complex than it needs to be. **low cohesion** describes a module which has an unclear purpose or which is overly complex.
+describing the complexity within a module, e.g. a class or a method. **high cohesion** describes a module that has a clear purpose and is no more complex than it needs to be. **low cohesion** describes a module that has an unclear purpose or which is overly complex.
 
 ## Component
 

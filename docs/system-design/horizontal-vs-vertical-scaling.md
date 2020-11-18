@@ -14,3 +14,4 @@
 | Network Calls\(RPC\) - transactions among servers | Inter-Process Communication |
 | Data Inconsistency | Consistent |
 | Scales well | Hardware limit |
+
