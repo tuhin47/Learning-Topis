@@ -55,18 +55,18 @@ module.exports = {
             title: "Creational Design", // required
             path: "/#a-creational-design-pattern",
             children: [
-              "docs/pattern/Singleton-Design-Pattern.md",
-              "docs/pattern/Factory-Design-Pattern.md",
-              "docs/pattern/Builder-Design-Pattern.md",
-              "docs/pattern/Prototype-Design-Pattern.md",
+              "docs/pattern/singleton-design-pattern.md",
+              "docs/pattern/factory-design-pattern.md",
+              "docs/pattern/builder-design-pattern.md",
+              "docs/pattern/prototype-design-pattern.md",
             ],
           },
           {
-            title: "Structual Design", // required
+            title: "Structural Design", // required
             path: "#b-structural-design-patterns",
             children: [
-              "docs/pattern/Adapter-Design-Pattern.md",
-              "docs/pattern/Composite-Design-Pattern.md",
+              "docs/pattern/adapter-design-pattern.md",
+              "docs/pattern/composite-design-pattern.md",
             ],
           },
         ],
