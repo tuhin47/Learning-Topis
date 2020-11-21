@@ -1,9 +1,6 @@
-# Learning47
+# Table of contents
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
-
-## Table of contents
-
+* [Design Patterns in Java](README.md)
 * [Documents](docs/README.md)
   * [Java Patterns](docs/pattern/README.md)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
@@ -27,5 +24,4 @@
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
   * [SQL Learning](docs/sql-learning/README.md)
     * [Sql Learning Links](docs/sql-learning/sql-learning-links.md)
-
 
