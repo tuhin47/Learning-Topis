@@ -4,8 +4,8 @@
 
 ## Table of contents
 
-* [Documents](docs/README.md)
-  * [Java Patterns](docs/pattern/README.md)
+* [Documents](docs/)
+  * [Java Patterns](docs/pattern/)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
     * [Prototype Design Pattern](docs/pattern/prototype-design-pattern.md)
     * [Composite Design Pattern Theory](docs/pattern/composite-design-pattern.md)
@@ -13,7 +13,7 @@
     * [Singleton Design Pattern](docs/pattern/singleton-design-pattern.md)
     * [Adapter Design Pattern Theory](docs/pattern/adapter-design-pattern.md)
     * [Builder Design Pattern in Java Theory](docs/pattern/builder-design-pattern.md)
-  * [System Design](docs/system-design/README.md)
+  * [System Design](docs/system-design/)
     * [Scaling](docs/system-design/horizontal-vs-vertical-scaling.md)
     * [System Design Basics](docs/system-design/sytem-design.md)
     * [MVC desing Pattern](docs/system-design/mvc_design_pattern.md)
@@ -22,10 +22,9 @@
     * [Hashing and Consisting Hasihing](docs/system-design/hashing.md)
     * [Sharding](docs/system-design/sharding.md)
     * [Load Balancing](docs/system-design/load_balancing.md)
-  * [More Java](docs/more/README.md)
+  * [More Java](docs/more/)
     * [More Topics](docs/more/more-topic.md)
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
-  * [SQL Learning](docs/sql-learning/README.md)
+  * [SQL Learning](docs/sql-learning/)
     * [Sql Learning Links](docs/sql-learning/sql-learning-links.md)
-
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Design Patterns in Java](README.md)
+* [Learning47](README.md)
 * [Documents](docs/README.md)
   * [Java Patterns](docs/pattern/README.md)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
