@@ -1,4 +1,3 @@
-
 # Scaling
 
 **Horizontal scaling** is adding more machines to deal with increasing requirements. These machines handle requests in parallel to improve user experience.
@@ -7,10 +6,11 @@
 
 ## Horizontal vs. Vertical Scaling
 
-|Horizontal|Vertical|
-|:---:|:---:|
-|Many Servers|Huge Server|
-|Load Balancing Required|N\A|
-|Resilient|Single Port failure|
-|Network Calls(RPC)-> <br>transactions among servers|Inter-Process Communication|Data Inconsistency|Consistent|
-|Scales well|Hardware limit|
+| Horizontal | Vertical |  |  |
+| :---: | :---: | :--- | :--- |
+| Many Servers | Huge Server |  |  |
+| Load Balancing Required | N\A |  |  |
+| Resilient | Single Port failure |  |  |
+| Network Calls\(RPC\)-&gt;  transactions among servers | Inter-Process Communication | Data Inconsistency | Consistent |
+| Scales well | Hardware limit |  |  |
+
