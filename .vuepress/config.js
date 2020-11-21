@@ -43,13 +43,13 @@ module.exports = {
     sidebar: [
       {
         title: "Java Design Patterns", // required
-        path: "/", // optional, link of the title, which should be an absolute path and must exist
+        path: "/docs/pattern/", // optional, link of the title, which should be an absolute path and must exist
         collapsable: true, // optional, defaults to true
         sidebarDepth: 2, // optional, defaults to 1
         children: [
           {
             title:"Introduction",
-            path: "/",
+            path: "/docs/pattern/",
           },
           {
             title: "Creational Design", // required
