@@ -36,7 +36,7 @@ module.exports = {
     // activeHeaderLinks: false, // Default: true
     nav: [
       {
-        text: "Portfoilo",
+        text: "Portfolio",
         link: "https://tuhin47.github.io/Portfolio/",
       },
     ],
@@ -84,7 +84,13 @@ module.exports = {
           "docs/system-design/mvc_design_pattern"
         ]
       },
-      ["/docs/more/more-topic", "More Topics Java"],
+      {
+        title: "More Java Topics",
+        path:"/docs/more/",
+        children: [
+          "/docs/more/more-topic"
+        ]
+      },
       ["/docs/sql-learning/sql-learning-links","Sql Learning Links"]
     ],
   },
