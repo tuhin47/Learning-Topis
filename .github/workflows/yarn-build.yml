@@ -1,0 +1,20 @@
+name: Yarn
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [main]
+
+jobs:
+  normal-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Install Xvfb libxss1
+        run: sudo apt-get install xvfb libxss1 libgconf-2-4
+      - name: yarn install
+        run: yarn install --ignore-platform
+      - name: build
+        run: yarn build
