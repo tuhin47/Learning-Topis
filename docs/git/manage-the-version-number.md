@@ -1,6 +1,6 @@
 # Manage the version number
 
-#### Versioning Schemes
+### Versioning Schemes
 
 There are two types of versioning schemes:
 
@@ -9,7 +9,7 @@ There are two types of versioning schemes:
 
 People use [different schemes](https://en.wikipedia.org/wiki/Software_versioning) as per their need, but [semantic versioning](http://semver.org/) is fairly widely used and authored by Tom Preston-Werner, co-founder of GitHub.
 
-#### Semantic Versioning
+### Semantic Versioning
 
 Semantic versioning follows the pattern of `X.Y.Z`
 
