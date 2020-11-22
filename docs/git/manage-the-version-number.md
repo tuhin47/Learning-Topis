@@ -1,7 +1,5 @@
 # Manage the version number
 
-Alexey Kiselev and Dario already hinted towards the answer, but I will try to explain it in detail.
-
 #### Versioning Schemes
 
 There are two types of versioning schemes:
