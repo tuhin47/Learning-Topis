@@ -25,5 +25,6 @@
   * [SQL Learning](docs/sql-learning/README.md)
     * [Sql Learning Links](docs/sql-learning/sql-learning-links.md)
   * [Git Versioning](docs/git/README.md)
+    * [Git Commands](docs/git/git-commands.md)
     * [Manage the version number](docs/git/manage-the-version-number.md)
 
