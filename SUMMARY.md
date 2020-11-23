@@ -2,6 +2,8 @@
 
 * [Learning47](README.md)
 * [Documents](docs/README.md)
+  * [JS](docs/js/README.md)
+    * [Javascript Clean Code](docs/js/javascript.md)
   * [Java Patterns](docs/pattern/README.md)
     * [Observer Design Pattern](docs/pattern/observer-design-pattern.md)
     * [Prototype Design Pattern](docs/pattern/prototype-design-pattern.md)
@@ -19,8 +21,6 @@
     * [Hashing and Consisting Hasihing](docs/system-design/hashing.md)
     * [Sharding](docs/system-design/sharding.md)
     * [Load Balancing](docs/system-design/load_balancing.md)
-  * [Javascript](docs/javascript-1/README.md)
-    * [Javascript Clean Code](docs/javascript-1/javascript.md)
   * [More Java](docs/more/README.md)
     * [More Topics](docs/more/more-topic.md)
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
