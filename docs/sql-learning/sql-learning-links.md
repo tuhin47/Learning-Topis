@@ -1,4 +1,4 @@
-# Sql Learning Links
+# SQL Learning Links
 
 | S. | Description | Link |
 | :--- | :--- | :--- |
