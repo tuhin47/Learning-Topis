@@ -1,4 +1,4 @@
-# Design Patterns in Java
+# Java Patterns
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceec4efb-1a95-424e-a933-8897a3797c23/deploy-status)](https://app.netlify.com/sites/learning-topics/deploys)
 
@@ -11,9 +11,9 @@ The Best practices are called as Design Patterns
 
 ## Types of Design Patterns
 
-1. [Creational](#a-creational-design-pattern)
-2. [Structural](#b-structural-design-patterns)
-3. [Behavioural](#c-behavioural)
+1. [Creational](./#a-creational-design-pattern)
+2. [Structural](./#b-structural-design-patterns)
+3. [Behavioural](./#c-behavioural)
 
 ### A. Creational Design Pattern
 
