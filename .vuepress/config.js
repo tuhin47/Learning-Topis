@@ -92,7 +92,7 @@ module.exports = {
       {
         title: "Javascript",
         path: "/docs/js/",
-        children: ["/docs/js/javascript"]
+        children: ["/docs/js/javascript", "/docs/js/es6"]
       },
       {
         title: "Git Versioning",
