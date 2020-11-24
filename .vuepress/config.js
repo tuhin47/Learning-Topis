@@ -19,8 +19,8 @@ module.exports = {
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
-      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
-    ],
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" }
+    ]
   ],
 
   /**
@@ -37,8 +37,8 @@ module.exports = {
     nav: [
       {
         text: "Portfolio",
-        link: "https://tuhin47.github.io/Portfolio/",
-      },
+        link: "https://tuhin47.github.io/Portfolio/"
+      }
     ],
     sidebar: [
       {
@@ -48,8 +48,8 @@ module.exports = {
         sidebarDepth: 2, // optional, defaults to 1
         children: [
           {
-            title:"Introduction",
-            path: "/docs/pattern/",
+            title: "Introduction",
+            path: "/docs/pattern/"
           },
           {
             title: "Creational Design", // required
@@ -58,22 +58,22 @@ module.exports = {
               "docs/pattern/singleton-design-pattern.md",
               "docs/pattern/factory-design-pattern.md",
               "docs/pattern/builder-design-pattern.md",
-              "docs/pattern/prototype-design-pattern.md",
-            ],
+              "docs/pattern/prototype-design-pattern.md"
+            ]
           },
           {
             title: "Structural Design", // required
             path: "#b-structural-design-patterns",
             children: [
               "docs/pattern/adapter-design-pattern.md",
-              "docs/pattern/composite-design-pattern.md",
-            ],
-          },
-        ],
+              "docs/pattern/composite-design-pattern.md"
+            ]
+          }
+        ]
       },
       {
-        title:'System Design',
-        path:"/docs/system-design/sytem-design",
+        title: "System Design",
+        path: "/docs/system-design/sytem-design",
         children: [
           "/docs/system-design/horizontal-vs-vertical-scaling",
           "docs/system-design/load_balancing.md",
@@ -86,17 +86,28 @@ module.exports = {
       },
       {
         title: "More Java Topics",
-        path:"/docs/more/",
+        path: "/docs/more/",
+        children: ["/docs/more/more-topic"]
+      },
+      {
+        title: "Javascript",
+        path: "/docs/js/",
+        children: ["/docs/js/javascript"]
+      },
+      {
+        title: "Git Versioning",
+        path: "/docs/git/",
         children: [
-          "/docs/more/more-topic"
+          "/docs/git/git-commands",
+          "/docs/git/manage-the-version-number"
         ]
       },
-      ["/docs/sql-learning/sql-learning-links","Sql Learning Links"]
-    ],
+      ["/docs/sql-learning/sql-learning-links", "Sql Learning Links"]
+    ]
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"]
 };

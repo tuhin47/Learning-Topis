@@ -29,4 +29,3 @@
   * [Git Versioning](docs/git/README.md)
     * [Git Commands](docs/git/git-commands.md)
     * [Manage the version number](docs/git/manage-the-version-number.md)
-
