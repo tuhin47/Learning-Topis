@@ -24,8 +24,10 @@
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
   * [Javascript](docs/js/README.md)
     * [Javascript Clean Code](docs/js/javascript.md)
+    * [Better Learning Concepts](docs/js/better-learning-concepts.md)
   * [SQL Learning](docs/sql-learning/README.md)
     * [SQL Learning Links](docs/sql-learning/sql-learning-links.md)
   * [Git Versioning](docs/git/README.md)
     * [Git Commands](docs/git/git-commands.md)
     * [Manage the version number](docs/git/manage-the-version-number.md)
+
