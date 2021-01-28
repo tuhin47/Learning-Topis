@@ -11,6 +11,7 @@
 * [Object-Oriented Design Definitions](object-oriented-design-definitions.md)
 * [Threadpool](https://youtu.be/sjMe9aecW_A)
 * [Java8 Concurrency](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+* [Security Vulnerabilities in Java](https://www.3pillarglobal.com/insights/blog-posts/security-vulnerabilities-java-based-web-applications/)
 
 
 
