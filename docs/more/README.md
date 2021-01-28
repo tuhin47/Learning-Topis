@@ -7,6 +7,11 @@
 * [Array vs ArrayList in Java](more-topic.md#array-vs-arraylist-in-java)
 * [Array list vs Vector in Java](more-topic.md#array-list-vs-vector-in-java)
 * [Heap and Stack Memory in Java](more-topic.md#heap-and-Stack-Memory-in-Java)
-* [String, StringBuffer and StringBuilder](more-topic.md#string-stringbuffer-and-stringbuilder)
-* [Object Oriented Design Definitions](object-oriented-design-definitions.md)
+* [String, StringBuffer, and StringBuilder](more-topic.md#string-stringbuffer-and-stringbuilder)
+* [Object-Oriented Design Definitions](object-oriented-design-definitions.md)
+* [Threadpool](https://youtu.be/sjMe9aecW_A)
+* [Java8 Concurrency](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+* [Security Vulnerabilities in Java](https://www.3pillarglobal.com/insights/blog-posts/security-vulnerabilities-java-based-web-applications/)
+
+
 
