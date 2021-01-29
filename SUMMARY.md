@@ -22,6 +22,7 @@
   * [More Java](docs/more/README.md)
     * [More Topics](docs/more/more-topic.md)
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
+    * [QA](docs/more/qa.md)
   * [Javascript](docs/js/README.md)
     * [Javascript Clean Code](docs/js/javascript.md)
     * [Better Learning Concepts](docs/js/better-learning-concepts.md)
