@@ -9,7 +9,7 @@
 
 * _**Durability**_ : Once a transaction completes successfully, the changes it has made into the database should be permanent even if there is a system failure.
 
-![ACID Properties](ACID-Properties.jpg)
+![ACID Properties](./ACID-Properties.jpg)
 
 ## BASE:
 
