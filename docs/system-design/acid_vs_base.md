@@ -5,11 +5,11 @@
 * _**Atomicity**_: This property ensures that either all the operations of a transaction reflect in database or none. A=400 and B=700 / some transfer / cumulative always 1100 even if failed
 * _**Consistency**_: To preserve the consistency of database, the execution of transaction should take place in isolation \(that means no other transaction should run concurrently when there is a transaction already running\). A=400 / 100 trasaction to B & C / two transaction seperately for reading the value A 1st transaction A=400 then 2nd transacation A=300
 
--_**Isolation**_: For every pair of transactions, one transaction should start execution only when the other finished execution.
+* _**Isolation**_: For every pair of transactions, one transaction should start execution only when the other finished execution.
 
 * _**Durability**_ : Once a transaction completes successfully, the changes it has made into the database should be permanent even if there is a system failure.
 
-[ACID Properties](https://github.com/tuhin47/Learning-Topis/tree/46d3de0681f87be5954f5b7ecda112ac31160e6b/docs/system-design/ACID-Properties.jpg)
+![ACID Properties](./ACID-Properties.jpg)
 
 ## BASE:
 
