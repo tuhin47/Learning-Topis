@@ -2,4 +2,4 @@
 
 
 
-1. Vivasoft [JavaScript BootCamp](https://app.gitbook.com/s/-MMeXSTsJovTguoUzGt7/)
+1. Vivasoft JavaScript [BootCamp](https://github.com/vivasoft-ltd/javascript-bootcamp)
