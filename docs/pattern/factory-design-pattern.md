@@ -4,11 +4,7 @@
 
 #### Example
 
-{% embed url="https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg" %}
-Factory Pattern
-{% endembed %}
-
-
+![](https://www.tutorialspoint.com/design\_pattern/images/factory\_pattern\_uml\_diagram.jpg)
 
 ```java
 public class ShapeFactory {
