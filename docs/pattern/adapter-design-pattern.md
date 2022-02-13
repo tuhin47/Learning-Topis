@@ -4,4 +4,6 @@
 
 _**Trainer: Navin Reddy**_
 
-{% embed url="https://i.imgur.com/1yQ22YU.png" %}
+_**Example**_
+
+![Pen Adaptar with Pilot Pen](https://i.imgur.com/1yQ22YU.png)
