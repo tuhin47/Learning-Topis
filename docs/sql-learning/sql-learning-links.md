@@ -1,14 +1,3 @@
 # SQL Learning Links
 
-| S. | Description | Link |
-| :--- | :--- | :--- |
-| 1 | Divide timestamp on an hourly basis of some dates. | [Link](http://sqlfiddle.com/#!9/ea89d9/16) |
-| 2 | Mysql Sum | [Link](http://sqlfiddle.com/#!9/89227c/1) |
-| 3 | Remove Duplicates | [Link](https://stackoverflow.com/questions/18932/how-can-i-remove-duplicate-rows/41377822#41377822) |
-| 4 | Top Ranking Yearly per Group | [Link](https://stackoverflow.com/questions/2129693/using-limit-within-group-by-to-get-n-results-per-group/15585351#15585351) |
-| 5 | Condition on date | [Link](http://sqlfiddle.com/#!18/7e6af0/4) |
-| 6 | MySQL Query GROUP BY \(day / month / year\) | [Link](https://stackoverflow.com/a/5766410/7499069) |
-| 7 | MySQL Conditional Join with different table | [Link](https://stackoverflow.com/a/1255553/7499069) |
-
-
-
+<table><thead><tr><th data-type="number">Serial.</th><th>Description</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Divide timestamp on an hourly basis of some dates.</td><td><a href="http://sqlfiddle.com/#!9/ea89d9/16">Link</a></td></tr><tr><td>2</td><td>Mysql Sum</td><td><a href="http://sqlfiddle.com/#!9/89227c/1">Link</a></td></tr><tr><td>3</td><td>Remove Duplicates</td><td><a href="https://stackoverflow.com/questions/18932/how-can-i-remove-duplicate-rows/41377822#41377822">Link</a></td></tr><tr><td>4</td><td>Top Ranking Yearly per Group</td><td><a href="https://stackoverflow.com/questions/2129693/using-limit-within-group-by-to-get-n-results-per-group/15585351#15585351">Link</a></td></tr><tr><td>5</td><td>Condition on date</td><td><a href="http://sqlfiddle.com/#!18/7e6af0/4">Link</a></td></tr><tr><td>6</td><td>MySQL Query GROUP BY (day / month / year)</td><td><a href="https://stackoverflow.com/a/5766410/7499069">Link</a></td></tr><tr><td>7</td><td>MySQL Conditional Join with different table</td><td><a href="https://stackoverflow.com/a/1255553/7499069">Link</a></td></tr></tbody></table>
