@@ -34,5 +34,5 @@
     * [Manage the version number](docs/git/manage-the-version-number.md)
   * [API](docs/api/README.md)
     * [REST vs gRPC](docs/api/rest-vs-grpc.md)
-  * [DevOps](docs/devops/README.md)
-    * [Docker](docs/devops/docker.md)
+  * [DevOps](docs/devops.md)
+  * [Cheat Sheet](docs/cheat-sheet.md)
