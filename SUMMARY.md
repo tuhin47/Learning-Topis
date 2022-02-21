@@ -23,6 +23,7 @@
     * [More Topics](docs/more/more-topic.md)
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
     * [QA](docs/more/qa.md)
+    * [Open Collection](docs/more/open-collection.md)
   * [Javascript](docs/js/README.md)
     * [Javascript Clean Code](docs/js/javascript.md)
     * [Essential Links](docs/js/essential-links.md)
@@ -36,3 +37,4 @@
     * [REST vs gRPC](docs/api/rest-vs-grpc.md)
   * [DevOps](docs/devops.md)
   * [Cheat Sheet](docs/cheat-sheet.md)
+  * [Elastic Search](docs/elastic-search.md)
