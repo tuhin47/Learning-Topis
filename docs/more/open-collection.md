@@ -28,4 +28,9 @@ Optional.ofNullable(house)
         .map(floorZero -> floorZero.getWall(WEST))
         .map(wallWest -> wallWest.getDoor())
         .map(door -> wallWest.getDoor())
+
 ```
+
+## [Spring @Transactional with a transaction across multiple data sources](https://stackoverflow.com/questions/48954763/spring-transactional-with-a-transaction-across-multiple-data-sources)
+
+[https://stackoverflow.com/a/50179738/7499069](https://stackoverflow.com/a/50179738/7499069)
