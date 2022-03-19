@@ -33,4 +33,53 @@ Optional.ofNullable(house)
 
 ## [Spring @Transactional with a transaction across multiple data sources](https://stackoverflow.com/questions/48954763/spring-transactional-with-a-transaction-across-multiple-data-sources)
 
-[https://stackoverflow.com/a/50179738/7499069](https://stackoverflow.com/a/50179738/7499069)
+{% embed url="https://stackoverflow.com/a/50179738/7499069" %}
+stackoverflow
+{% endembed %}
+
+### [DateTimeFormatter](https://www.geeksforgeeks.org/java-time-format-datetimeformatterbuilder-class-in-java/)
+
+```java
+import java.io.*;
+import java.lang.*;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
+import java.time.temporal.ChronoField;
+ 
+// Main class
+public class GFG {
+ 
+    // Main driver methods
+    public static void main(String[] args)
+    {
+ 
+        // Creating an object of DateTimeFormatter class
+        DateTimeFormatter parser
+            = new DateTimeFormatterBuilder()
+                  .appendPattern("[yyyy][yyyyMM][yyyyMMdd]")
+                  .optionalStart()
+                  .parseDefaulting(
+                      ChronoField.MONTH_OF_YEAR, 1)
+                  .parseDefaulting(ChronoField.DAY_OF_MONTH,
+                                   1)
+                  .optionalEnd()
+                  .toFormatter();
+ 
+        // Print and display statements
+ 
+        // Execute if only year is given in parameter
+        System.out.println(
+            parser.parse("2021", LocalDate::from));
+ 
+        // Execute if year and month is given
+        System.out.println(
+            parser.parse("202106", LocalDate::from));
+ 
+        // Execute if year, month and date is given
+        System.out.println(
+            parser.parse("20210631", LocalDate::from));
+    }
+}
+```
