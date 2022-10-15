@@ -1,5 +1,7 @@
 ---
-description: https://tehlug.org/events/presentations/183/scalability_patterns.pdf
+description: >-
+  https://tehlug.org/events/presentations/183/scalability_patterns.pdf
+  http://www.slideshare.net/jboner/scalability-availability-stability-patterns/
 ---
 
 # Scalability, Availability & Stability Patterns
@@ -7,6 +9,8 @@ description: https://tehlug.org/events/presentations/183/scalability_patterns.pd
 {% file src="../../.gitbook/assets/scalability_patterns.pdf" %}
 Scalability, Availability & Stability Patterns
 {% endfile %}
+
+[Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
 ## **Trade-Offs**
 
