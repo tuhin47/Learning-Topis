@@ -20,6 +20,7 @@
     * [Sharding](docs/system-design/sharding.md)
     * [Load Balancing](docs/system-design/load\_balancing.md)
     * [Proxy and Reverse Proxy](docs/system-design/proxy-and-reverse-proxy.md)
+    * [Scalability, Availability & Stability Patterns](docs/system-design/scalability-availability-and-stability-patterns.md)
     * [Different Terminology](docs/system-design/different-terminology.md)
   * [More Java](docs/more/README.md)
     * [More Topics](docs/more/more-topic.md)
