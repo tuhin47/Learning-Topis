@@ -37,5 +37,4 @@
   * [API](docs/api/README.md)
     * [REST vs gRPC](docs/api/rest-vs-grpc.md)
   * [DevOps](docs/devops.md)
-  * [Cheat Sheet](docs/cheat-sheet.md)
   * [Elastic Search](docs/elastic-search.md)
