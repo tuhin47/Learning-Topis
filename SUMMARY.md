@@ -2,7 +2,7 @@
 
 * [Learning47](README.md)
 * [Documents](docs/README.md)
-  * [Java Patterns](docs/pattern/README.md)
+  * [👨💻 Java Patterns](docs/pattern/README.md)
     * [Singleton Design Pattern](docs/pattern/singleton-design-pattern.md)
     * [Factory Design Pattern Theory](docs/pattern/factory-design-pattern.md)
     * [Builder Design Pattern in Java Theory](docs/pattern/builder-design-pattern.md)
@@ -40,5 +40,5 @@
     * [Manage the version number](docs/git/manage-the-version-number.md)
   * [API](docs/api/README.md)
     * [REST vs gRPC](docs/api/rest-vs-grpc.md)
-  * [DevOps](docs/devops.md)
-  * [Elastic Search](docs/elastic-search.md)
+  * [🔧 Agile Methodology](docs/agile-methodology/README.md)
+    * [🌀 Scrum](docs/agile-methodology/scrum.md)
