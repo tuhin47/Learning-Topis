@@ -26,6 +26,7 @@
     * [More Topics](docs/more/more-topic.md)
     * [Object Oriented Design Definitions](docs/more/object-oriented-design-definitions.md)
     * [QA](docs/more/qa.md)
+    * [Java 8 Cheat Sheet](docs/more/java-8-cheat-sheet.md)
     * [Open Collection](docs/more/open-collection.md)
   * [Spring](docs/spring/README.md)
     * [Spring Security](docs/spring/spring-security.md)
