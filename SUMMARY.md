@@ -38,7 +38,5 @@
   * [Git Versioning](docs/git/README.md)
     * [Git Commands](docs/git/git-commands.md)
     * [Manage the version number](docs/git/manage-the-version-number.md)
-  * [API](docs/api/README.md)
-    * [REST vs gRPC](docs/api/rest-vs-grpc.md)
   * [🔧 Agile Methodology](docs/agile-methodology/README.md)
     * [🌀 Scrum](docs/agile-methodology/scrum.md)
