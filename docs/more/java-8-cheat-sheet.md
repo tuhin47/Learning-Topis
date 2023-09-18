@@ -32,7 +32,7 @@ MyMath d = a -> a * 2; // associated to the interface
 d.getDoubleOf(4); // is 8
 ```
 
-***
+
 
 All examples with "list" use :
 
@@ -306,7 +306,7 @@ Optional<Double> squareRoot(double x) {
 }
 ```
 
-***
+
 
 **Note on inferance limitations**
 
@@ -335,6 +335,6 @@ stream.sorted(
 ) // ok
 ```
 
-***
+
 
 This cheat sheet was based on the lecture of Cay Horstmann http://horstmann.com/heig-vd/spring2015/poo/

@@ -14,7 +14,7 @@ Scalability, Availability & Stability Patterns
 
 ## **Trade-Offs**
 
-* ****[**Performance** vs **scalability**](https://app.gitbook.com/s/-MMeXSTsJovTguoUzGt7/\~/changes/rGuWNtAXiPHZqYF2UyEK/docs/system-design/trade-offs)****
+* [**Performance** vs **scalability**](https://app.gitbook.com/s/-MMeXSTsJovTguoUzGt7/\~/changes/rGuWNtAXiPHZqYF2UyEK/docs/system-design/trade-offs)
 * **Latency** vs **throughput**
 * **Availability** vs **consistency**
 
