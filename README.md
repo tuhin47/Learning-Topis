@@ -12,7 +12,7 @@
     * [Prototype Design Pattern](java/pattern/prototype-design-pattern.md)
     * [Adapter Design Pattern Theory](java/pattern/adapter-design-pattern.md)
     * [Composite Design Pattern Theory](java/pattern/composite-design-pattern.md)
-    * [Observer Design Pattern](java/pattern/observer-design-pattern.md)
+    * [Observer Design Pattern](broken-reference)
   * [System Design](system-design/system-design/)
     * [System Design Basics](system-design/system-design/sytem-design.md)
     * [Scaling](system-design/system-design/horizontal-vs-vertical-scaling.md)

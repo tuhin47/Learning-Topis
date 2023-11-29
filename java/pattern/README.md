@@ -44,7 +44,7 @@ Behavioral patterns are about identifying common communication patterns between 
 1. Template Method
 2. Mediator
 3. Chain of Responsibility
-4. [Observer](observer-design-pattern.md)
+4. [Observer](broken-reference)
 5. Strategy
 6. Command
 7. State
