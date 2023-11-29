@@ -6,7 +6,7 @@ Certainly! The Template Method Pattern in Java is used to define the skeleton of
 
 
 
-<figure><img src="../../.gitbook/assets/template.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/template.png" alt=""><figcaption></figcaption></figure>
 
 In this example, `HouseTemplate` is an abstract class that defines the template method `buildHouse()` which lays out the steps required to build a house (foundation, walls, roof, and optional furnishing). Subclasses `WoodenHouse` and `BrickHouse` extend the `HouseTemplate` and implement the abstract methods specific to their construction material.
 

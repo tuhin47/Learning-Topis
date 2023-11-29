@@ -4,7 +4,7 @@ The Decorator Pattern in Java allows behavior to be added to individual objects 
 
 [Decorator](https://github.com/tuhin47/AlgoExpert/blob/b9d5010da1512ff5e9ad489b911340a71f1b99c3/Java/src/patterns/examples/DecoratorPatternExample.java)
 
-<figure><img src="../../.gitbook/assets/decorator.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/decorator.png" alt=""><figcaption></figcaption></figure>
 
 In this example, `Coffee` is the interface representing the coffee behavior. `SimpleCoffee` is a concrete implementation of a basic coffee. `CoffeeDecorator` is an abstract class implementing the `Coffee` interface and acting as the base for all decorators. `MilkDecorator` and `WhipDecorator` are concrete decorators that add functionality (cost and description) to the coffee.
 

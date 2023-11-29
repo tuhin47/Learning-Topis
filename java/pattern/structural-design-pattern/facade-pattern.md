@@ -6,7 +6,7 @@ The Facade Pattern in Java is a structural design pattern that provides a simpli
 \
 
 
-<figure><img src="../../.gitbook/assets/facade.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/facade.png" alt=""><figcaption></figcaption></figure>
 
 In this example, the `CPU`, `Memory`, and `HardDrive` classes represent the complex subsystem of a computer system, each responsible for specific operations. The `ComputerFacade` class acts as a facade providing a simple interface to start the computer (`start`) and shut it down (`shutdown`).
 

@@ -19,18 +19,18 @@ The Best practices are called as Design Patterns
 
 These design patterns are all about class instantiation or object creation.
 
-1. [Singleton](singleton-design-pattern.md)
-2. [Factory](factory-design-pattern.md)
+1. [Singleton](creational-design-pattern/singleton-design-pattern.md)
+2. [Factory](creational-design-pattern/factory-design-pattern.md)
 3. Abstract factory
-4. [Builder](builder-design-pattern.md)
-5. [Prototype](prototype-design-pattern.md)
+4. [Builder](creational-design-pattern/builder-design-pattern.md)
+5. [Prototype](creational-design-pattern/prototype-design-pattern.md)
 
 ### B. Structural Design Patterns
 
 These design patterns are about organizing different classes and objects to form larger structures and provide new functionality.
 
-1. [Adapter](adapter-design-pattern.md)
-2. [Composite](composite-design-pattern.md)
+1. [Adapter](creational-design-pattern/adapter-design-pattern.md)
+2. [Composite](structural-design-pattern/composite-design-pattern.md)
 3. Proxy
 4. Fly weight
 5. Facade
