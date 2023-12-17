@@ -12,9 +12,9 @@
 
 <figure><img src="../../.gitbook/assets/ksnip_20231112-002523.png" alt=""><figcaption><p>Spring vs Spring-boot</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Acuator Endpoint</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Acuator Endpoint</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Relax Binding</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Relax Binding</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ksnip_20231111-124647.png" alt=""><figcaption><p>Deifferent States of Persistent Entity</p></figcaption></figure>
 

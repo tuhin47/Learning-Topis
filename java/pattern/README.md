@@ -52,3 +52,7 @@ Behavioral patterns are about identifying common communication patterns between 
 9. Iterator
 10. Interpreter
 11. Memento
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
