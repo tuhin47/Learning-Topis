@@ -40,6 +40,7 @@
   * [Topics](java/more/more-topic.md)
   * [Java 8 Cheat Sheet](java/more/java-8-cheat-sheet.md)
   * [Random](java/more/random.md)
+  * [Page](java/more/page.md)
   * [QA](java/more/qa.md)
 * [Spring](java/spring/README.md)
   * [Spring Security](java/spring/spring-security.md)
