@@ -8,7 +8,7 @@ description: Question and Answer JAVA
 
 Because of Primitive data types namely:
 
-```text
+```
   boolean, byte, char, int, float, double, long, short.
 ```
 
@@ -16,23 +16,26 @@ To make them 00 we have wrapper classes that actually _wrap_ the primitive data 
 
 ### Why pointers are not used in Java?
 
-1. They are unsafe. 
-2. Increases the complexity of the program and since Java is known for its simplicity of code, adding the concept of pointers will be contradicting. 
+1. They are unsafe.
+2. Increases the complexity of the program and since Java is known for its simplicity of code, adding the concept of pointers will be contradicting.
 3. Since JVM is responsible for implicit memory allocation, thus in order to avoid direct access to memory by the user, pointers are discouraged in Java
 
 ### What is JIT compiler in Java?
 
 ![Description](https://i.stack.imgur.com/MsTWN.png)
 
+## JRE , JDK, and JVM
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Why String is immutable in java?
 
-1. String pool requires string to be immutable otherwise shared reference can be
+1.  String pool requires string to be immutable otherwise shared reference can be
 
-   changed from anywhere.
+    changed from anywhere.
+2.  security because string is shared on different area like file system, networking
 
-2. security because string is shared on different area like file system, networking
-
-   connection, database connection , having immutable string allows you to be secure and safe because no one can change reference of string once it gets created.
+    connection, database connection , having immutable string allows you to be secure and safe because no one can change reference of string once it gets created.
 
 ### What is a marker interface?
 
@@ -53,17 +56,17 @@ Not in the following cases:
 
 ### What Methods Does the Object Class Have?
 
-* Protected Object **clone\(\)** throws CloneNotSupportedException Creates and returns a copy of this object.
-* public boolean **equals\(Object obj\)** Indicates whether some other object is “equal to” this one.
-* protected void **finalize\(\)** throws Throwable Called by the garbage collector on an object when garbage-collection determines that there are no more references to the object
-* public final Class **getCIass\(\)** : Returns the runtime class of an object.
-* public int **hashCode\(\)**: Returns a hash code value for the object.
-* public String **toString\(\)**: Returns a string representation of the object.
-* public final void **notify\(\)**
-* public final void **notifyAll\(\)**
-* public final void **wait\(\)**
-* public final void **wait\(long timeout\)**
-* public final void **wait\(long timeout, int nanos\)**
+* Protected Object **clone()** throws CloneNotSupportedException Creates and returns a copy of this object.
+* public boolean **equals(Object obj)** Indicates whether some other object is “equal to” this one.
+* protected void **finalize()** throws Throwable Called by the garbage collector on an object when garbage-collection determines that there are no more references to the object
+* public final Class **getCIass()** : Returns the runtime class of an object.
+* public int **hashCode()**: Returns a hash code value for the object.
+* public String **toString()**: Returns a string representation of the object.
+* public final void **notify()**
+* public final void **notifyAll()**
+* public final void **wait()**
+* public final void **wait(long timeout)**
+* public final void **wait(long timeout, int nanos)**
 
 ### How Can You Make a Class Immutable?
 
@@ -73,4 +76,3 @@ Not in the following cases:
 * Make **all mutable fields** final so that their values can be assigned only once.
 * Initialize all the fields via a **constructor performing a deep copy.**
 * Perform **cloning of objects** in the getter methods to return a copy rather than returning the actual object reference.
-
