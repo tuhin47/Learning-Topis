@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Learning47](README.md)
-
 ## System Design
 
-* [System Design](system-design/system-design/README.md)
+* [System Design](README.md)
   * [System Design Basics](system-design/system-design/sytem-design.md)
   * [Scaling](system-design/system-design/horizontal-vs-vertical-scaling.md)
   * [MVC desing Pattern](system-design/system-design/mvc\_design\_pattern.md)
@@ -18,7 +16,7 @@
   * [Different Terminology](system-design/system-design/different-terminology.md)
   * [Extra](system-design/system-design/extra/README.md)
     * [Cookies and Sessions](system-design/system-design/extra/cookies-and-sessions.md)
-    * [SSO](system-design/system-design/extra/sso.md)
+    * [SSO](system-design/system-design/sso.md)
 
 ## Java
 
