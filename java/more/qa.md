@@ -26,7 +26,7 @@ To make them 00 we have wrapper classes that actually _wrap_ the primitive data 
 
 ## JRE , JDK, and JVM
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Why String is immutable in java?
 

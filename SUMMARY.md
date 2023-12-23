@@ -16,7 +16,9 @@
   * [Proxy and Reverse Proxy](system-design/system-design/proxy-and-reverse-proxy.md)
   * [Scalability, Availability & Stability Patterns](system-design/system-design/scalability-availability-and-stability-patterns.md)
   * [Different Terminology](system-design/system-design/different-terminology.md)
-  * [SSO](system-design/system-design/sso.md)
+  * [Extra](system-design/system-design/extra/README.md)
+    * [Cookies and Sessions](system-design/system-design/extra/cookies-and-sessions.md)
+    * [SSO](system-design/system-design/extra/sso.md)
 
 ## Java
 
