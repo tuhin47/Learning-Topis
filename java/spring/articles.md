@@ -1,5 +1,17 @@
 # Articles
 
+## Spring Annotations
+
+{% embed url="https://medium.com/@sureshkumar_95502/spring-spring-boot-annotations-cheat-sheet-de546e0b03d4" %}
+Annotations
+{% endembed %}
+
+> {% code overflow="wrap" %}
+> ```java
+> @After, @Around, @Aspect, @Autowired, @Bean, @Before, @Cacheable, @CacheEvict, @CachePut, @Column, @Component ,@ComponentScan, @Configuration, @ConfigurationProperties, @ControllerAdvice, @CrossOrigin, @DeleteMapping ,@EnableAutoConfiguration, @EnableCaching, @EnableScheduling, @Entity, @ExceptionHandler, @GetMapping, @Lazy ,@ManytoMany, @ManytoOne, @Max, @Min, @Negative, @NotNull, @OnetoMany, @OnetoOne, @PathVariable, @PermitAll, @Pointcut ,@Positive, @PostConstruct, @PostMapping, @PreAuthorize, @PreDestroy, @Primary, @Profile, @PropertySource, @PutMapping ,@Qualifier, @Query, @Repository, @RequestBody, @RequestHeader, @RequestMapping, @RequestParam, @RestController ,@Scheduled, @Secured, @Service, @SpringBootApplication, @Table, @Transactional, @Valid, @Value
+> ```
+> {% endcode %}
+
 ## Transactional
 
 {% embed url="https://youlearncode.com/transactional-in-spring-boot/#6_Transactional_Isolation_Attribute" %}

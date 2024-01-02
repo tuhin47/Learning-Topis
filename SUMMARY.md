@@ -3,6 +3,7 @@
 ## System Design
 
 * [System Design](README.md)
+  * [Approach](system-design/system-design/approach.md)
   * [System Design Basics](system-design/system-design/sytem-design.md)
   * [Scaling](system-design/system-design/horizontal-vs-vertical-scaling.md)
   * [MVC desing Pattern](system-design/system-design/mvc\_design\_pattern.md)
