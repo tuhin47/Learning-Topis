@@ -21,7 +21,7 @@
 
 ## Java
 
-* [👨💻 Java Patterns](java/pattern/README.md)
+* [👨‍💻 Java Patterns](java/pattern/README.md)
   * [Creational Design Pattern](java/pattern/creational-design-pattern/README.md)
     * [Singleton Design Pattern](java/pattern/creational-design-pattern/singleton-design-pattern.md)
     * [Factory Design Pattern Theory](java/pattern/creational-design-pattern/factory-design-pattern.md)
@@ -30,12 +30,12 @@
     * [Adapter Design Pattern Theory](java/pattern/creational-design-pattern/adapter-design-pattern.md)
   * [Structural Design Pattern](java/pattern/structural-design-pattern/README.md)
     * [Composite Design Pattern Theory](java/pattern/structural-design-pattern/composite-design-pattern.md)
-    * [Decorator  Pattern](java/pattern/structural-design-pattern/decorator-pattern.md)
+    * [Decorator Pattern](java/pattern/structural-design-pattern/decorator-pattern.md)
     * [Facade Pattern](java/pattern/structural-design-pattern/facade-pattern.md)
   * [Behavioural Design Pattern](java/pattern/behavioural-design-pattern/README.md)
     * [Template Pattern](java/pattern/behavioural-design-pattern/template-pattern.md)
-    * [Observer  Pattern](java/pattern/behavioural-design-pattern/observer-pattern.md)
-    * [Strategy  Pattern](java/pattern/behavioural-design-pattern/strategy-pattern.md)
+    * [Observer Pattern](java/pattern/behavioural-design-pattern/observer-pattern.md)
+    * [Strategy Pattern](java/pattern/behavioural-design-pattern/strategy-pattern.md)
     * [Visitor Pattern](java/pattern/behavioural-design-pattern/visitor-pattern.md)
 * [More Java](java/more/README.md)
   * [Object Oriented Design Definitions](java/more/object-oriented-design-definitions.md)
@@ -47,9 +47,10 @@
 * [Spring](java/spring/README.md)
   * [Spring Security](java/spring/spring-security.md)
   * [Articles](java/spring/articles.md)
+  * [Spring Schedule](java/spring/spring-schedule.md)
 * [Images](java/images/README.md)
   * [Java](java/images/java.md)
-  * [Spring Boot ](java/images/spring-boot.md)
+  * [Spring Boot](java/images/spring-boot.md)
   * [Microservice](java/images/microservice.md)
   * [Hibernate](java/images/hibernate.md)
 
