@@ -48,6 +48,7 @@
   * [Spring Security](java/spring/spring-security.md)
   * [Articles](java/spring/articles.md)
   * [Spring Schedule](java/spring/spring-schedule.md)
+  * [Spring AOP Tutorial](java/spring/spring-aop-tutorial.md)
 * [Images](java/images/README.md)
   * [Java](java/images/java.md)
   * [Spring Boot](java/images/spring-boot.md)
