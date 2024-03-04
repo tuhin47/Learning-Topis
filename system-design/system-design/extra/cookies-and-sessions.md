@@ -6,7 +6,7 @@ description: What are the differences between cookies and sessions?
 
 The diagram below shows how they work.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Cookies and Sessions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cookies and Sessions</p></figcaption></figure>
 
 Cookies and sessions are both used to carry user information over HTTP requests, including user login status, user permissions, etc.
 

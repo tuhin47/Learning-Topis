@@ -49,6 +49,8 @@
   * [Articles](java/spring/articles.md)
   * [Spring Schedule](java/spring/spring-schedule.md)
   * [Spring AOP Tutorial](java/spring/spring-aop-tutorial.md)
+* [Hibernate](java/hibernate/README.md)
+  * [Hibernate Entity's Persistence States](java/hibernate/hibernate-entitys-persistence-states.md)
 * [Images](java/images/README.md)
   * [Java](java/images/java.md)
   * [Spring Boot](java/images/spring-boot.md)
